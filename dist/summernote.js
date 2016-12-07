@@ -6702,7 +6702,7 @@
           'item': item
         });
 
-        if (hintIdx === 0 && idx === 0) {
+        if (idx === 0) {
           $item.addClass('active');
         }
         return $item;
